@@ -10,7 +10,21 @@ My love for coding began back in the '90s when I wrote my first app in Quick Bas
 
 I've forgotten more languages and frameworks than I can remember
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,aws,html,css,tailwind,js,react,vite,ts,expressjs,nodejs,mongodb,md,git,github,vscode,jest,postman,docker,sqlite,angular,azure,stackoverflow&perline=13)](#)
+### UI
+
+[![My UI Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,vscode,jest,angular&perline=13)](#)
+
+### Backend
+
+[![My Backend Skills](https://skillicons.dev/icons?i=dotnet,aws,azure,js,ts,expressjs,nodejs,jest,docker&perline=13)](#)
+
+### Data
+
+[![My Data Skills](https://skillicons.dev/icons?i=mongodb,sqlite&perline=13)](#)
+
+### Tools
+
+[![My Tool Skills](https://skillicons.dev/icons?i=vite,md,git,github,vscode,postman,stackoverflow&perline=13)](#)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
