@@ -12,7 +12,7 @@ I've forgotten more languages and frameworks than I can remember
 
 ### UI
 
-[![My UI Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,vscode,jest,angular&perline=13)](#)
+[![My UI Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,jest,angular&perline=13)](#)
 
 ### Backend
 
