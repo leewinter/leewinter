@@ -4,6 +4,7 @@ Hi there! I'm a true **Fullstack Developer**—I've worked extensively across ev
 
 My love for coding began back in the '90s when I wrote my first app in Quick Basic. While I didn't do much beyond a few websites until 2008, from then on, I've embraced a variety of technologies. I started with .NET, moved into Node.js and Angular, and now I'm working with React, always keeping my SQL skills sharp along the way.
 
+
 ---
 
 ## 🛠️ Technologies & Languages
