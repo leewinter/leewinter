@@ -27,9 +27,7 @@ I've forgotten more languages and frameworks than I can remember
 
 [![My Tool Skills](https://skillicons.dev/icons?i=vite,md,git,github,vscode,postman,stackoverflow&perline=13)](#)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
-
- [![Lee's github stats](https://bad-apple-github-readme.vercel.app/api?username=leewinter&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats
  
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=leewinter&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
