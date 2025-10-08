@@ -36,7 +36,3 @@ I've forgotten more languages and frameworks than I can remember
 [![Lee Winters current streak](https://github-readme-streak-stats-nu-teal-49.vercel.app/?user=leewinter&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 [![Lee Winter Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=leewinter&bg_color=RRGGBBAA&title_color=00b3ff&color=32df76&line=f3b501&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph)](#)
-
-## 🎨 Profile Visits
-
-![Visitor Count](https://profile-counter.glitch.me/leewinter/count.svg)
